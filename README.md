@@ -32,7 +32,7 @@ Este enfoque no solo redujo costos, sino que promovió una mentalidad ecológica
 - Arduino UNO
 - Pantalla OLED 128x64 (I2C)
 - Joystick analógico (reutilizado)
-- 2 Botones tipo push
+- Botón tipo push
 - Display de 7 segmentos (para vidas)
 - Bocina reutilizada
 - Protoboard y cables Dupont
