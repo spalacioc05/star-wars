@@ -91,13 +91,13 @@ Este enfoque no solo redujo costos, sino que promovió una mentalidad ecológica
 
 ## 👨‍💻 Autores
 
-- Santiago Palacio Cárdenas  
-- Sarai Restrepo Rodríguez  
-- Dilan Salazar Ospina  
-- Camilo Andrés Cuéllar Benito  
+- [Santiago Palacio Cárdenas](https://github.com/spalacioc05)
+- [Sarai Restrepo Rodríguez](https://github.com/saraires)
+- [Dilan Salazar Ospina]()
+- [Camilo Andrés Cuéllar Benito]()
 
 📍 *Universidad de Antioquia – Facultad de Ingeniería*  
-🧑‍🏫 *Docente: Yohany Ortiz Acosta*
+🧑‍🏫 *Docente: [Yohany Ortiz Acosta]()*
 
 ## 📝 Licencia
 
