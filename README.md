@@ -47,23 +47,23 @@ Este enfoque no solo redujo costos, sino que promovió una mentalidad ecológica
 
 ## 📐 Montaje y conexiones
 
-![Montaje físico](img/montaje_fisico.jpg)
+<img src="img/montaje_fisico.jpg" alt="Montaje físico" width="500"/>
 
 *Prototipo ensamblado en protoboard*
 
-![Pantalla OLED en acción](img/pantalla_oled_juego.jpg)
+<img src="img/pantalla_oled_juego.jpg" alt="Pantalla OLED en acción" width="500"/>
 
 *Visualización de la nave y enemigos en pantalla OLED*
 
-![Display de vidas](img/display_vidas.jpg)
+<img src="img/display_vidas.jpg" alt="Display de vidas" width="500"/>
 
 *Contador de vidas usando display de 7 segmentos reutilizado*
 
 ## 🧠 Lógica del juego
 
-- El joystick permite mover la nave en el eje horizontal.
+- El joystick permite mover la nave en el eje vertical.
 - El botón principal lanza proyectiles.
-- El display de 7 segmentos reduce el número de vidas cuando hay colisión.
+- El display de 7 segmentos reduce el número de vidas cuando hay colisión (son 5 vidas).
 - Se muestra todo en pantalla OLED con sprites simples.
 - La bocina reproduce sonidos básicos de disparo o impacto.
 
