@@ -91,10 +91,12 @@ Este enfoque no solo redujo costos, sino que promovió una mentalidad ecológica
 
 ## 👨‍💻 Autores
 
+<img src="img/autores.jpg" alt="Display de vidas" width="500"/>
+
 - [Santiago Palacio Cárdenas](https://github.com/spalacioc05)
 - [Sarai Restrepo Rodríguez](https://github.com/saraires)
-- [Dilan Salazar Ospina]()
-- [Camilo Andrés Cuéllar Benito]()
+- [Dilan Salazar Ospina](https://github.com/Dirun25)
+- [Camilo Andrés Cuéllar Benito](https://github.com/camiloandcu)
 
 📍 *Universidad de Antioquia – Facultad de Ingeniería*  
 🧑‍🏫 *Docente: [Yohany Ortiz Acosta]()*
