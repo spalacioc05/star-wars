@@ -103,7 +103,7 @@ Este enfoque no solo redujo costos, sino que promovió una mentalidad ecológica
 
 ## 📝 Licencia
 
-Proyecto con fines educativos. ¡Siéntete libre de replicarlo o modificarlo, siempre citando a los autores originales!
+Proyecto con fines educativos.
 
 ---
 
