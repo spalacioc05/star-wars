@@ -227,11 +227,11 @@ void loop() {
 
     // --- JOYSTICK MOVIMIENTO VERTICAL ---
     int joyY = analogRead(JOY_Y);
-    if (joyY < 400 && poz >= 2) { // Arriba
-      poz = poz - 2;
-    }
-    if (joyY > 600 && poz <= 48) { // Abajo
+    if (joyY < 400 && poz <= 48) { // Arriba
       poz = poz + 2;
+    }
+    if (joyY > 600 && poz >= 2) { // Abajo
+      poz = poz - 2;
     }
     // -------------------------------------
 
